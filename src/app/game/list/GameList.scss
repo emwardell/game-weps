@@ -1,0 +1,14 @@
+@import "@material/list/mdc-list";
+@import "@material/typography/mdc-typography";
+
+.game-list {
+  width: 100%;
+}
+
+.game-list > li {
+  cursor: pointer;
+}
+
+.games {
+  padding: 16px;
+}
