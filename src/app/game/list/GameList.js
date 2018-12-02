@@ -1,5 +1,5 @@
 import React from 'react';
-import './GameList.scss';
+import './GameList.styl';
 
 const list = (
   <div className="games">

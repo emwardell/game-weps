@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../../../assets/images/gameweps_logo_400x400.jpg';
-import './Menu.scss';
+import './Menu.styl';
 
 const menu = (
   <aside className="mdc-drawer">

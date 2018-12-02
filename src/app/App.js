@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import firebase from 'firebase/app';
 import * as firebaseui from 'firebaseui';
 
-import './App.scss';
+import './App.styl';
 import GameList from './game/list/GameList.js';
 import Menu from './shared/menu/Menu.js';
 

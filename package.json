@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material/button": "^0.41.0",
+    "@material/drawer": "^0.41.0",
+    "@material/list": "^0.41.0",
+    "@material/ripple": "^0.41.0",
     "firebase": "^5.5.8",
     "firebaseui": "^3.4.1",
     "material-design-icons": "^3.0.1",
-    "node-sass": "^4.10.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
@@ -25,11 +28,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "@material/button": "^0.41.0",
-    "@material/drawer": "^0.41.0",
-    "@material/list": "^0.41.0",
-    "@material/ripple": "^0.41.0"
-  }
+  ]
 }
